@@ -6,6 +6,9 @@ class Calculator
     public:
         int Add (double, double);
         int Sub (double, double);
+        int Mul (double, double);
+        int Square (double, double);
+        int Div (double, double);
 };
 
 #endif//CALCULATOR_H
